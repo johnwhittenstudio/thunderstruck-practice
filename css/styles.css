@@ -2,5 +2,21 @@ h1 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 36px;
   font-weight: bold;
-  color: white;
+  text-align: center;
+  color: black;
+}
+h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 8px;
+  color: black;
+}
+img {
+  float: right;
+  width: 600px;
+}
+.background {
+  background-color: black;
 }
