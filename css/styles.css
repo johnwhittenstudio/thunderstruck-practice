@@ -16,13 +16,14 @@ h2 {
 }
 h3 {
     float: inline-start;
+    text-align: justify;
     left: 50%;
     width: 65%;
     margin-left: 200px;
     margin-right: 48px;
     font-family: 'Trebuchet MS';
-    font-size: 14px;
-    font-style: regular;
+    font-size: 16px;
+    font-weight:100;
     padding-left: 48px;
     color: white;
     box-sizing: border-box;
